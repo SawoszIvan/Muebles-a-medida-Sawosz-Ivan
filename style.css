@@ -1,16 +1,19 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
 }
+
 
 
 /* Nav Bar */
 
 
+
 .logovar {
-    width: 10rem;
+    width: 35vw;
     border-radius: 4px;
+    display: flex;
+    
 }
 
 .navbar-nav{
@@ -18,7 +21,6 @@
 }
 
 .header{
-    
     margin-bottom: 0;
     margin-top: 0;
 }
@@ -41,6 +43,7 @@
     text-align: center;
     color: rgb(194, 195, 196);
 }
+
 
 
 
@@ -127,5 +130,4 @@ textarea {
 .container__footer {
     background-image: url(./Images/Contenido/fondo\ 3.jpg);
     margin-top: 0;
-
 }
