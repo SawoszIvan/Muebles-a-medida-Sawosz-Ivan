@@ -1,0 +1,30 @@
+@import "./components/contacto";
+@import "./components/about-us";
+@import "./components/home";
+@import "./components/nuestros-trabajos";
+@import "./components/proveedores";
+@import "./base/variables";
+
+*{
+    background-image: url(../Images/Contenido/fondo3.jpg);
+}
+
+.logovar {
+    width: 35vw;
+    border-radius: 4px;
+    display: flex;
+    
+}
+
+.navbar-nav{
+    margin-left: auto;
+}
+
+.header{
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.container__footer {
+    margin-top: 0;
+}
