@@ -63,11 +63,20 @@ textarea {
   text-align: center;
   color: #c2c3c4; }
 
-.galeria_imagenes {
-  padding-top: 100px;
-  padding-bottom: 50px; }
+.fondo {
+  background-image: url(../Images/Contenido/fondo3.jpg);
+  width: auto; }
+
+.fondo {
+  background-image: url(../../Images/Contenido/fondo3.jpg); }
 
 * {
+  margin: 0;
+  padding: 0;
+  margin-top: 0;
+  padding-bottom: 0; }
+
+.fondo {
   background-image: url(../Images/Contenido/fondo3.jpg); }
 
 .logovar {
@@ -75,12 +84,8 @@ textarea {
   border-radius: 4px;
   display: flex; }
 
+.header {
+  display: block; }
+
 .navbar-nav {
   margin-left: auto; }
-
-.header {
-  margin-bottom: 0;
-  margin-top: 0; }
-
-.container__footer {
-  margin-top: 0; }
