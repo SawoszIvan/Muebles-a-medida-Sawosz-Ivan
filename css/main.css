@@ -1,6 +1,3 @@
-.container_main {
-  background-image: url(./images/contenido/fondo3.jpg); }
-
 .text_pms {
   color: #bebebe; }
 
@@ -89,3 +86,6 @@ textarea {
 
 .navbar-nav {
   margin-left: auto; }
+
+.container__footer {
+  width: auto; }
