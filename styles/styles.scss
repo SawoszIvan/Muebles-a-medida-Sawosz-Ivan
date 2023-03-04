@@ -1,0 +1,25 @@
+@import "./about-us.scss";
+@import "./contacto.scss";
+@import "./nuestros-trabajos.scss";
+@import "./proveedores.scss";
+@import "./index.scss";
+*{
+    margin: 0;
+    padding: 0;
+    margin-top: 0;
+    padding-top: 0;
+}
+body{
+    background-image: url(../Images/Contenido/fondo3.jpg);
+    width: auto;
+}
+.logovar {
+    width: 20rem;
+    border-radius: 4px;
+    display: flex; }
+.header {
+    display: block;
+   }
+.navbar-nav {
+    margin-left: auto; }
+
